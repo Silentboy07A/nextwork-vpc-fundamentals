@@ -128,6 +128,6 @@ Add screenshots in the `screenshots/` folder:
 
 ## Author
 
-Sakthi Balamurugan
+Sakthi B
 
 Cloud Computing Student | AWS & Cloud Engineering Learner
